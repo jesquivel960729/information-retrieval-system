@@ -1,0 +1,101 @@
+.I 001
+.W
+what similarity laws must be obeyed when constructing aeroelastic models
+of heated high speed aircraft .
+.I 002
+.W
+what are the structural and aeroelastic problems associated with flight
+of high speed aircraft .
+.I 004
+.W
+what problems of heat conduction in composite slabs have been solved so
+far .
+.I 008
+.W
+can a criterion be developed to show empirically the validity of flow
+solutions for chemically reacting gas mixtures based on the simplifying
+assumption of instantaneous local chemical equilibrium .
+.I 009
+.W
+what chemical kinetic system is applicable to hypersonic aerodynamic
+problems .
+.I 010
+.W
+what theoretical and experimental guides do we have as to turbulent
+couette flow behaviour .
+.I 012
+.W
+is it possible to relate the available pressure distributions for an
+ogive forebody at zero angle of attack to the lower surface pressures of
+an equivalent ogive forebody at angle of attack .
+.I 013
+.W
+what methods -dash exact or approximate -dash are presently available
+for predicting body pressures at angle of attack.
+.I 015
+.W
+papers on internal /slip flow/ heat transfer studies .
+.I 018
+.W
+are real-gas transport properties for air available over a wide range of
+enthalpies and densities .
+.I 022
+.W
+is it possible to find an analytical,  similar solution of the strong
+blast wave problem in the newtonian approximation .
+.I 023
+.W
+how can the aerodynamic performance of channel flow ground effect
+machines be calculated .
+.I 026
+.W
+what is the basic mechanism of the transonic aileron buzz .
+.I 027
+.W
+papers on shock-sound wave interaction .
+.I 029
+.W
+material properties of photoelastic materials .
+.I 031
+.W
+can the transverse potential flow about a body of revolution be
+calculated efficiently by an electronic computer .
+.I 032
+.W
+can the three-dimensional problem of a transverse potential flow about
+a body of revolution be reduced to a two-dimensional problem .
+.I 033
+.W
+are experimental pressure distributions on bodies of revolution at angle
+of attack available .
+.I 034
+.W
+does there exist a good basic treatment of the dynamics of re-entry
+combining consideration of realistic effects with relative simplicity of
+results .
+.I 035
+.W
+has anyone formally determined the influence of joule heating,  produced
+by the induced current,  in magnetohydrodynamic free convection flows
+under general conditions .
+.I 039
+.W
+why does the compressibility transformation fail to correlate the high
+speed data for helium and air .
+.I 040
+.W
+did anyone else discover that the turbulent skin friction is not over
+sensitive to the nature of the variation of the viscosity with
+temperature .
+.I 041
+.W
+what progress has been made in research on unsteady aerodynamics .
+.I 049
+.W
+what are the factors which influence the time required to invert large
+structural matrices .
+.I 050
+.W
+does a practical flow follow the theoretical concepts for the
+interaction between adjacent blade rows of a supersonic cascade .
+

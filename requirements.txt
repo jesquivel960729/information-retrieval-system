@@ -1,0 +1,8 @@
+streamlit
+bs4
+json
+math
+nltk
+numpy
+lxml
+collections
